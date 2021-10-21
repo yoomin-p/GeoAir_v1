@@ -1,6 +1,6 @@
 # GeoAir Version 1
 
-[Instructions for setup](http://yoominpark.com/GeoAir/):
+[Instructions for setup](http://yoominpark.com/GeoAir-v-1/):
 Instructions to build hardware and install software.
 
 [GeoAir Data Cleaning Web Program](http://yoominpark.com/geoaircleaner/):
